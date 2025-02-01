@@ -9,7 +9,7 @@ namespace Day_Two
     
     internal class Program
     {
-    
+
         static void Main(string[] args)
         {
             Point3D point3D = new Point3D();
